@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(241, 159, 159);
+}
+body{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+img{
+    margin-left: 70%;
+    position: right;
+}
+h1{
+    text-size-adjust: center;
+}
